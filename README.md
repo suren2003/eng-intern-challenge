@@ -7,6 +7,8 @@
 
 **If you have any questions, please reach out to `internprogram@shopify.com`**
 
+Checkout README in python repo as well
+
 ---
 
 ## Braille Translator
